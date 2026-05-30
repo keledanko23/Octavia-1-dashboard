@@ -9,7 +9,7 @@ This is the Octavia-1 Dashboard - a comprehensive dashboard solution designed to
 ## Images
 
 ### Disassembly
-<img src="./images/dissasemnly.jpeg" width="500" alt="Disassembly">
+<img src="./images/dissasembly.jpeg" width="500" alt="Disassembly">
 
 ### Figuring Out
 <img src="./images/figuring out.jpeg" width="500" alt="Figuring Out">
