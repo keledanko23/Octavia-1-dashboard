@@ -5,18 +5,55 @@ A dashboard project.
 ## 📋 Project Overview
 
 This is the Octavia-1 Dashboard - a comprehensive dashboard solution designed to use for pc simulators.
+I have significantly expanded the scope of this project into a multi-phase hardware and software engineering build. I am converting a physical Skoda Octavia MK1 instrument cluster into a high-fidelity, real-time PC flight/racing simulator telemetry display.
 
-## Images
+## Current Progress (20 Hours Logged):
 
-### Disassembly
-<img src="./images/dissasembly.jpeg" width="500" alt="Disassembly">
+Hardware Reverse Engineering: Analyzed the internal trace lines, power rail limits, and motor pinouts of a replacement cluster following a previous hardware       failure (which was an excellent learning experience).
+Interface Board Fabrication: Built a fully functional hardware interface on a 5x7cm barna perfboard, permanently soldering 3 driver ICs to safely handle logic     signal conversions between the microcontroller and the dashboard.
+Complex Wire Harnessing: Engineered a point-to-point jumper wire harness to break out the connections. Applied hot-melt adhesive to insulate exposed solder        joints and provide mechanical strain relief.
 
-### Figuring Out
-<img src="./images/figuring out.jpeg" width="500" alt="Figuring Out">
+## Remaining Scope:
+
+Firmware Development: Writing custom C++ code to parse real-time telemetry packets (RPM, Speed) via serial communication from PC simulator software.
+Custom PCB Shield Design: Translating the temporary wired prototype board into a clean, professionally manufactured custom PCB shield designed in EDA software     that will mount directly to the back of the cluster.
+
 
 ## Diary
 
-### Day 1
-I got a Octavia mk1 dashboard and disassembled it then I tried to figure it out how it works with a multimeter, but I didn´t figured it out yet- still thinking about it.
+### 1st log (3.5 hours)
+Analyzed the internal board layout of the replacement cluster. Traced the circuit lines to find the correct entry points for the stepper motors and indicators to avoid another hardware failure.
+  ### Disassembly
+  <img src="./images/dissasembly.jpeg" width="500" alt="Disassembly">
 
-**Last Updated:** May 29, 2026
+  ### LEDS
+  <img src="./images/leds.jpeg" width="500" alt="LEDS">
+
+  ### Pinout
+<img src="./images/pinout.jpeg" width="500" alt="Pinout">
+
+## 2nd log (4 hours)
+Mapped out the component placement on the 5x7cm barna perfboard. Positioned the three driver ICs and the male headers, then permanently soldered them onto the prototype board.
+
+  ### ICs
+  <img src="./images/ICS.jpeg" width="500" alt="ICs">
+
+## 3rd log (4.5 hours)
+Started building the complex point-to-point jumper wire harness. Stripped, routed, and soldered individual wires from the IC legs to the breakout headers to safely transfer signals.
+
+  ### Wires
+  <img src="./images/cables.jpeg" width="500" alt="Wires">
+
+## 4th log (4 hours)
+Used a multimeter to test continuity on every single soldered connection. Checked for accidental solder bridges between the IC pins to prevent any short circuits before testing on live power.
+ 
+  ### Checking
+  <img src="./images/figuring out.jpeg" width="500" alt="Checking">
+
+## 5th log (4 hours)
+Completed the hardware prototyping phase. Applied layers of hot-melt adhesive over the wire cluster to insulate the exposed solder joints and provide mechanical strain relief against loose connections.
+
+  ### Coating
+  <img src="./images/coating.jpeg" width="500" alt="Coating">
+  
+**Last Updated:** June 3, 2026
