@@ -15,8 +15,8 @@ Complex Wire Harnessing: Engineered a point-to-point jumper wire harness to brea
 
 ## Remaining Scope:
 
-Firmware Development: Writing custom C++ code to parse real-time telemetry packets (RPM, Speed) via serial communication from PC simulator software.
-Custom PCB Shield Design: Translating the temporary wired prototype board into a clean, professionally manufactured custom PCB shield designed in EDA software     that will mount directly to the back of the cluster.
+Firmware Development: Writing custom python code using tkinter to simulate how it should work
+Custom PCB Shield Design: Try to create a pcb for it.
 
 
 ## Diary
