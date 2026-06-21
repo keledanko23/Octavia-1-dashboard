@@ -55,5 +55,14 @@ Completed the hardware prototyping phase. Applied layers of hot-melt adhesive ov
 
   ### Coating
   <img src="./images/coating.jpeg" width="500" alt="Coating">
+
+## 6th log (5 hours)
+Completed a simulation python code that shows how it will work.
+
+  ### Python screenshot
+  <img src="./images/python code.png" width="500" alt="Python code">
+
+  ## DEMO LINK: https://youtu.be/50QhlQHXBYw
   
-**Last Updated:** June 3, 2026
+  
+**Last Updated:** June 21, 2026
