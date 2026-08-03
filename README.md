@@ -63,6 +63,10 @@ Completed a simulation python code that shows how it will work.
   <img src="./images/python code.png" width="500" alt="Python code">
 
   ## DEMO LINK: https://youtu.be/50QhlQHXBYw
+
+  ## 7th log(2.5 hours)
+  Started mapping out the pcb so i can recreate it later, added 1more led to the prototype, tried to add 2more but they burned out
+  <img src="./images/1extraled.jpeg" width="500" alt="LED">
   
   
-**Last Updated:** June 21, 2026
+**Last Updated:** August 3, 2026
