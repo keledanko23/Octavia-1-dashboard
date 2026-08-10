@@ -67,8 +67,14 @@ Completed a simulation python code that shows how it will work.
   ## 7th log(2.5 hours)
   Started mapping out the pcb so i can recreate it later, added 1more led to the prototype, tried to add 2more but they burned out
   <img src="./images/1extraled.jpeg" width="500" alt="LED">
+  
   ## 8th log(9.2 hours)
   Started building the pcb outlines and holes, unfortunatly lot of the holes arent on their places where they should be even if i mesure 10 times, at least the outline is finally the form i need and some of the holes ar on their places.
    <img src="./images/pcb outlines.jpeg" width="500" alt="Outlines">
     <img src="./images/pcb measuring.jpeg" width="500" alt="Measuring">
+
+## 9th log(3.7 hours)
+Finaly got a chance to use a scaner to scan the pcb, imported it into kicad ad fixed al the kholes location and the form of the pcb, the pcb form is now finished
+<img src="./images/PCBFORM.jpeg" width="500" alt="PCB form">
+
 **Last Updated:** August 5, 2026
