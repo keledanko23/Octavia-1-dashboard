@@ -77,4 +77,4 @@ Completed a simulation python code that shows how it will work.
 Finaly got a chance to use a scaner to scan the pcb, imported it into kicad ad fixed al the kholes location and the form of the pcb, the pcb form is now finished
 <img src="./images/PCBFORM.jpeg" width="500" alt="PCB form">
 
-**Last Updated:** August 5, 2026
+**Last Updated:** August 10, 2026
