@@ -75,6 +75,12 @@ Completed a simulation python code that shows how it will work.
 
 ## 9th log(3.7 hours)
 Finaly got a chance to use a scaner to scan the pcb, imported it into kicad ad fixed al the kholes location and the form of the pcb, the pcb form is now finished
-<img src="./images/PCBFORM.jpeg" width="500" alt="PCB form">
+  
+  <img src="./images/PCBFORM.jpeg" width="500" alt="PCB form">
 
-**Last Updated:** August 10, 2026
+## 10th log(7 hours)
+Drawed the schematic, it was really hard because I did not find some IC-s and had to draw them myself, at first it had 56errors but i managed to fix it
+
+<img src="./images/schematic.jpg" width="500" alt="Schematic">
+
+**Last Updated:** August 12, 2026
