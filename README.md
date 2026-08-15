@@ -83,4 +83,9 @@ Drawed the schematic, it was really hard because I did not find some IC-s and ha
 
 <img src="./images/schematic.jpg" width="500" alt="Schematic">
 
-**Last Updated:** August 12, 2026
+## 11th log(9 hours)
+Added the components and conected most of the traces but I can´t make it cleaner, and i ran the DRC it said it has 250 errors and 110 alerts so i have a lot of work to do.
+
+<img src="./images/PCBtraces.jpg" width="500" alt="PCB traces">
+
+**Last Updated:** August 15, 2026
