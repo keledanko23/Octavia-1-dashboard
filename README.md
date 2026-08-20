@@ -88,4 +88,8 @@ Added the components and conected most of the traces but I can´t make it cleane
 
 <img src="./images/PCBtraces.jpg" width="500" alt="PCB traces">
 
-**Last Updated:** August 15, 2026
+## 12th log(9.2 hours)
+Fixed the layout, changed some expensive IC-s to cheaper ones, almost finished
+<img src="./images/layout2.jpg" width="500" alt="Layout">
+
+**Last Updated:** August 20, 2026
