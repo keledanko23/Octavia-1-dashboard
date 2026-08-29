@@ -7,11 +7,12 @@ A dashboard project.
 This is the Octavia-1 Dashboard - a comprehensive dashboard solution designed to use for pc simulators.
 I have significantly expanded the scope of this project into a multi-phase hardware and software engineering build. I am converting a physical Skoda Octavia MK1 instrument cluster into a high-fidelity, real-time PC flight/racing simulator telemetry display.
 
-## Current Progress (20 Hours Logged):
+## Current Progress (73 Hours Logged):
 
 Hardware Reverse Engineering: Analyzed the internal trace lines, power rail limits, and motor pinouts of a replacement cluster following a previous hardware       failure (which was an excellent learning experience).
 Interface Board Fabrication: Built a fully functional hardware interface on a 5x7cm barna perfboard, permanently soldering 3 driver ICs to safely handle logic     signal conversions between the microcontroller and the dashboard.
 Complex Wire Harnessing: Engineered a point-to-point jumper wire harness to break out the connections. Applied hot-melt adhesive to insulate exposed solder        joints and provide mechanical strain relief.
+Finished PCB design
 
 ## Remaining Scope:
 
@@ -102,5 +103,7 @@ Finally finished the pcb, it´s ready for order
 <img src="./images/pcbfront.jpg" width="500" alt="PCB front">
 
 ## PCB FILES [HERE](https://github.com/keledanko23/Octavia-1-dashboard/tree/main/PCB%20files)
+
+## [BOM IN TABLE FOMRAT](https://docs.google.com/spreadsheets/d/1glcknnUEBRp5D3enFJscNNNqzlTzyaNK3k0CQGIx504/edit?usp=sharing)
 
 **Last Updated:** August 29, 2026
