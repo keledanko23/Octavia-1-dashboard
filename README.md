@@ -64,6 +64,8 @@ Completed a simulation python code that shows how it will work.
 
   ## DEMO LINK: https://youtu.be/50QhlQHXBYw
 
+  ## PYTHON CODE [HERE](https://github.com/keledanko23/Octavia-1-dashboard/blob/main/Octavia%20mk1%20dashboard%20python%20code.py)
+  
   ## 7th log(2.5 hours)
   Started mapping out the pcb so i can recreate it later, added 1more led to the prototype, tried to add 2more but they burned out
   <img src="./images/1extraled.jpeg" width="500" alt="LED">
@@ -90,6 +92,15 @@ Added the components and conected most of the traces but I can´t make it cleane
 
 ## 12th log(9.2 hours)
 Fixed the layout, changed some expensive IC-s to cheaper ones, almost finished
+
 <img src="./images/layout2.jpg" width="500" alt="Layout">
 
-**Last Updated:** August 20, 2026
+## 13th log(5.8 hours)
+Finally finished the pcb, it´s ready for order
+
+<img src="./images/pcbback.jpg" width="500" alt="PCB back">
+<img src="./images/pcbfront.jpg" width="500" alt="PCB front">
+
+## PCB FILES [HERE](https://github.com/keledanko23/Octavia-1-dashboard/tree/main/PCB%20files)
+
+**Last Updated:** August 29, 2026
