@@ -102,7 +102,7 @@ Finally finished the pcb, it´s ready for order
 <img src="./images/pcbback.jpg" width="500" alt="PCB back">
 <img src="./images/pcbfront.jpg" width="500" alt="PCB front">
 
-## PCB FILES [HERE](https://github.com/keledanko23/Octavia-1-dashboard/tree/main/PCB%20files)
+## PCB FILES [HERE](https://github.com/keledanko23/Octavia-1-dashboard/tree/main/PCB%20FILES)
 
 ## [BOM IN TABLE FOMRAT](https://docs.google.com/spreadsheets/d/1glcknnUEBRp5D3enFJscNNNqzlTzyaNK3k0CQGIx504/edit?usp=sharing)
 
