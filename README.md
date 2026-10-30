@@ -109,5 +109,5 @@ Finally finished the pcb, it´s ready for order
 ## 14th log(10,9 hours)
 I soldered on evrything and foun out i got scammed and the ics from aliexpress were fake so i had to order new ones and found out my board had some issues so i will fix it in kicad
 It is finished
-## DEMO LINK: 
+## DEMO LINK: https://youtu.be/WoHd4EV55U8
 **Last Updated:** October 30, 2026
