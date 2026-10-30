@@ -106,4 +106,8 @@ Finally finished the pcb, it´s ready for order
 
 ## [BOM IN TABLE FOMRAT](https://docs.google.com/spreadsheets/d/1glcknnUEBRp5D3enFJscNNNqzlTzyaNK3k0CQGIx504/edit?usp=sharing)
 
-**Last Updated:** August 29, 2026
+## 14th log(10,9 hours)
+I soldered on evrything and foun out i got scammed and the ics from aliexpress were fake so i had to order new ones and found out my board had some issues so i will fix it in kicad
+It is finished
+## DEMO LINK: 
+**Last Updated:** October 30, 2026
